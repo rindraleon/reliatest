@@ -5,6 +5,7 @@
 
 Porgramme ecriver en Javescript tourne sous console de votre navigateur
 <!---description_end-->
+n'oublier pas le npm install car il besoin de node js
 
 Pour demmarer le jeux
       
